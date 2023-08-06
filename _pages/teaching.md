@@ -25,7 +25,7 @@ nav_order: 5
     * IE451 Decision Analysis 
     * IE372 Simulation 
 
-**Undergrad TA** | *Middle East Technical University - Ankara, TR (02.2020-08.2022)*
+**Undergrad TA** | *Middle East Technical University - Ankara, TR (09.2018-07.2019)*
 * 2018-2019 spring term: 
     * IE368 Quality Planning and Control
 * 2018-2019 fall term: 
