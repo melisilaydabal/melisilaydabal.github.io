@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Learning and Adaptive Systems (LAS)](https://las.inf.ethz.ch/) - [Interactive Learning Group](https://is.mpg.de/en/interactive-learning-group) at ETH Zurich & MPI Intelligent Systems led by Prof. Dr. Andreas Krause.
+Joined [Learning and Adaptive Systems (LAS)](https://las.inf.ethz.ch/) - [Interactive Learning Group](https://is.mpg.de/en/interactive-learning-group) at ETH Zurich & MPI Intelligent Systems led by Prof. Andreas Krause.
