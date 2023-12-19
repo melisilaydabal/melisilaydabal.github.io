@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.melisilaydabal.com//sitemap.xml
+Sitemap: https://melisilaydabal.github.io//melisilaydabal.github.io//sitemap.xml
