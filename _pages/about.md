@@ -18,11 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a first-year Ph.D. in Computer Science student at the [CS@max planck](https://www.cis.mpg.de/cs-max-planck/) program. I work as a doctoral researcher at [MPI-SWS](https://www.mpi-sws.org/), Saarbrücken, Germany. 
+I am a first-year Ph.D. in Computer Science student at the [CS@max planck](https://www.cis.mpg.de/cs-max-planck/) program. I work as a doctoral researcher at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), Tübingen, Germany--in the [Learning and Dynamical Systems](https://lds.is.mpg.de/) research group.
 <!---
- (in the [Multi-agent Systems](https://people.mpi-sws.org/~gradanovic/group.html) research group) 
  -->
 I received my M.Sc. in Operations Research and B.Sc. in Industrial Engineering with a minor degree in Computer Engineering at [Middle East Technical University (METU)](https://www.metu.edu.tr/). 
 
-My research interests include artificial intelligence, multi-agent systems, game theory and stochastic optimization, *specifically:* reinforcement learning.
+My research interests include artificial intelligence, multi-agent systems, game theory and stochastic optimization, reinforcement learning.
 
