@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a first-year Ph.D. in Computer Science student at the [CS@max planck](https://www.cis.mpg.de/cs-max-planck/) program. I work as a doctoral researcher at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), Tübingen, Germany--in the [Learning and Dynamical Systems](https://lds.is.mpg.de/) research group.
+I am a first-year Ph.D. in Computer Science candidate at the [CS@max planck](https://www.cis.mpg.de/cs-max-planck/) program. I work as a doctoral researcher at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), Tübingen, Germany--in the [Learning and Dynamical Systems](https://lds.is.mpg.de/) research group.
 <!---
  -->
 I received my M.Sc. in Operations Research and B.Sc. in Industrial Engineering with a minor degree in Computer Engineering at [Middle East Technical University (METU)](https://www.metu.edu.tr/). 
