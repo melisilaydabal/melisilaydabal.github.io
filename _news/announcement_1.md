@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Multi-agent Systems](https://people.mpi-sws.org/~gradanovic/group.html) research group at MPI-SWS led by Dr. Goran Radanovic.
+Started [CS@maxplanck](https://www.cis.mpg.de/cs-max-planck/) doctoral program at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/)
