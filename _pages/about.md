@@ -23,5 +23,7 @@ I am a first-year Ph.D. in Computer Science candidate at the [CS@max planck](htt
  -->
 I received my M.Sc. in Operations Research and B.Sc. in Industrial Engineering with a minor degree in Computer Engineering at [Middle East Technical University (METU)](https://www.metu.edu.tr/). 
 
-My research interests include artificial intelligence, multi-agent systems, game theory and stochastic optimization, reinforcement learning.
 
+My research interests encompass algorithmic decision-making and multi-agent systems. Within these domains, I am particularly fascinated by the intricate interplay of game theory and stochastic optimization. Previously, I have focused on the intersection of these, in the contexts of reinforcement learning and Bayesian optimization.
+
+<!---My research interests include algorithmic decision-making, multi-agent systems, game theory, stochastic optimization, Bayesian optimization, specifically, reinforcement learning. --->
