@@ -119,13 +119,30 @@
             <!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2024</h2>
-  <ol class="bibliography"><li>
+  <ol class="bibliography">
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/anor-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/anor-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/anor-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/anor.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="anor.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
 
         <!-- Entry bib key -->
-        <div id="mib-anos" class="col-sm-8">
+        <div id="mib-anor" class="col-sm-8">
         <!-- Title -->
         <div class="title">Population-based Exploration in Reinforcement Learning through Repulsive Reward Shaping Using Eligibility Traces</div>
         <!-- Author -->
@@ -170,14 +187,98 @@
           
         </div>
       </div>
-</li></ol>
-
-  <h2 class="year">2023</h2>
-  <ol class="bibliography">
+</li>
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/fgcs-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/fgcs-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/fgcs-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/fgcs.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="fgcs.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="mib-fgcs" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Potential-Based Reward Shaping Using State-Space Segmentation for Efficiency in Reinforcement Learning</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Melis Ilayda Bal</em>, Huseyin Aydin, Cem Iyigun, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Faruk Polat' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em></em> Apr 2024
+        </div>
+        <div class="periodical">
+          Future Generation Computer Systems
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links" id="entry-links">
+            <a href="https://doi.org/10.1016/j.future.2024.03.057" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+</ol>
+
+  <h2 class="year">2023</h2>
+  <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/gameopt_neurips_2023-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/gameopt_neurips_2023-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/gameopt_neurips_2023-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/gameopt_neurips_2023.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="gameopt_neurips_2023.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
 
         <!-- Entry bib key -->
         <div id="mib-gameopt" class="col-sm-8">
@@ -206,7 +307,7 @@
         
         
         <div class="periodical">
-          <em>NeurIPS ReALML Workshop on Adaptive Experimental Design and Active Learning in the Real World</em>, Dec 2023
+          <em>NeurIPS ReALML Workshop</em>, Dec 2023
         </div>
         <div class="periodical">
           Best paper award finalist*, Spotlight talk*
@@ -225,59 +326,7 @@
           
         </div>
       </div>
-</li>
-<li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"></div>
-
-        <!-- Entry bib key -->
-        <div id="mib-anor" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">Potential-Based Reward Shaping Using State-Space Segmentation for Efficiency in Reinforcement Learning</div>
-        <!-- Author -->
-        <div class="author">
-        
-
-        <em>Melis Ilayda Bal</em>, Huseyin Aydin, Cem Iyigun, and
-          <span class="more-authors" title="click to view 1 more author" onclick="
-                var element = $(this);
-                element.attr('title', '');
-                var more_authors_text = element.text() == '1 more author' ? 'Faruk Polat' : '1 more author';
-                var cursorPosition = 0;
-                var textAdder = setInterval(function(){
-                  element.text(more_authors_text.substring(0, cursorPosition + 1));
-                  if (++cursorPosition == more_authors_text.length){
-                    clearInterval(textAdder);
-                  }
-              }, '10');
-              ">1 more author</span>
-</div>
-
-        <!-- Journal/Book title and date -->
-        
-        
-        <div class="periodical">
-          <em></em> Sep 2023
-        </div>
-        <div class="periodical">
-          under review
-        </div>
-
-          <!-- Links/Buttons -->
-          <div class="links" id="entry-links">
-          </div>
-          
-          <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
-          </div>
-
-          
-        </div>
-      </div>
-</li>
-</ol>
+</li></ol>
 
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li>
