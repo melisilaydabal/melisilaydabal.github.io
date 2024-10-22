@@ -39,10 +39,10 @@
   type: time_table
   contents:
     - title: Doctoral Researcher
-    institution: Max Planck Institute for Intelligent Systems (MPI-IS), Tubingen, Germany
-    year: 12.2023 - ...
-    description:
-      - Doctoral researcher at the Learning and Dynamical Systems (LDS) research group – led by Michael Muehlebach.
+      institution: Max Planck Institute for Intelligent Systems (MPI-IS), Tubingen, Germany
+      year: 12.2023 - ...
+      description:
+        - Doctoral researcher at the Learning and Dynamical Systems (LDS) research group – led by Michael Muehlebach.
         
     - title: Visiting Doctoral Researcher
       institution: ETH Zurich, Zurich, Switzerland
