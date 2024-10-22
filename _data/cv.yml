@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: Max Planck Graduate Center for Computer and Information Science (MPG), Germany
+      institution: [CS@maxplanck](https://www.cis.mpg.de/cs-max-planck/) doctoral program - Max Planck Graduate Center for Computer and Information Science (MPG)
       year: 2022 - ...
       # description:
       #  - Description 2.
@@ -38,15 +38,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Doctoral Researcher
+    institution: Max Planck Institute for Intelligent Systems (MPI-IS), Tubingen, Germany
+    year: 12.2023 - ...
+    description:
+      - Doctoral researcher at the [Learning and Dynamical Systems (LDS)](https://lds.is.mpg.de/) research group – led by [Michael Muehlebach](https://sites.google.com/view/mmuehlebach).
+        
     - title: Visiting Doctoral Researcher
       institution: ETH Zurich, Zurich, Switzerland
-      year: 03.2022 - ...
+      year: 03.2022 - 12.2023
       description:
-        - Currently working as a visiting doctoral researcher at the Learning and Adaptive Systems (LAS) research group at ETH Zurich – led by Prof. Dr. Andreas Krause.
+        - Worked as a visiting doctoral researcher at the [Learning and Adaptive Systems (LAS)](https://las.inf.ethz.ch/) research group at ETH Zurich – led by Prof. Andreas Krause.
 
     - title: Doctoral Researcher
       institution: Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany
-      year: 2022 - ...
+      year: 10.2022 - 12.2023
       description:
         - Worked at Multi-agent Systems research group – led by Dr. Goran Radanović
 
@@ -71,27 +77,27 @@
         - Dept. of Industrial Engineering
         - Courses assisted- IE361 Stochastic Models in Operations Research, IE368 Quality Planning and Control
 
-    - title: Business Analyst Intern
-      institution: Garanti Technology, Istanbul, Turkey
-      year: Summer 2018
-      description:
-        - Conducted a software requirements analysis and prepared Systems Requirements Specification document
-        - Applied data mining methods such as k-Means and apriori algorithm for customer segmentation and bank product offers
-        - Used- Python, SQL, UML, MS Excel, Microsoft Dynamics CRM
+    # - title: Business Analyst Intern
+    #   institution: Garanti Technology, Istanbul, Turkey
+    #   year: Summer 2018
+    #   description:
+    #     - Conducted a software requirements analysis and prepared a Systems Requirements Specification document
+    #     - Applied data mining methods such as k-Means and apriori algorithm for customer segmentation and bank product offers
+    #     - Used- Python, SQL, UML, MS Excel, Microsoft Dynamics CRM
 
-    - title: Production Engineer Intern
-      institution: Arcelik Inc. Electronics Plant, Istanbul, Turkey
-      year: Summer 2016
-      description:
-        - Performed assembly line balancing of PCB production line
-        - Used- GAMS
+    # - title: Production Engineer Intern
+    #   institution: Arcelik Inc. Electronics Plant, Istanbul, Turkey
+    #   year: Summer 2016
+    #   description:
+    #     - Performed assembly line balancing of PCB production line
+    #     - Used- GAMS
 
-    - title: Workshop Engineering Intern
-      institution: PARSAT Piston Inc. - Production dept., Istanbul, Turkey
-      year: Summer 2015
-      description:
-        - Prepared process flow chart and technical drawings of products produced in the factory
-        - Used- AutoCAD
+    # - title: Workshop Engineering Intern
+    #   institution: PARSAT Piston Inc. - Production dept., Istanbul, Turkey
+    #   year: Summer 2015
+    #   description:
+    #     - Prepared process flow chart and technical drawings of products produced in the factory
+    #     - Used- AutoCAD
 
 #- title: Open Source Projects
 #  type: time_table
