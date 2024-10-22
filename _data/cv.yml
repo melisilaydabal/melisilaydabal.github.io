@@ -12,8 +12,7 @@
     - title: Ph.D. in Computer Science
       institution: Max Planck Graduate Center for Computer and Information Science (MPG), Germany
       year: 2022 - ...
-      description:
-       - [CS@maxplanck](https://www.cis.mpg.de/cs-max-planck/) doctoral program
+      # description:
       #  - Description 2.
       #  - title: Description 3.
       #    contents:
