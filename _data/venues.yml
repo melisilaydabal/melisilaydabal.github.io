@@ -7,10 +7,21 @@
 
 
 "NeurIPS ReALML Workshop":
-  color: "#9f0065"
+  color: "#3fc17e"
 
 "NeurIPS 2023":
-  color: "#9f0000"
+  color: "#3fc17e"
 
 "arXiv":
   color: "#840000"
+
+
+"ICLR 2025":
+  color: "#f23300"
+
+
+"MSc Thesis":
+  color: "#7f0000"
+
+"Oral":
+  color: "#7f0000"

@@ -1,3 +1,27 @@
+"Muehlebach":
+  - firstname: ["Michael", "M."]
+    url: https://sites.google.com/view/mmuehlebach
+
+
+"Krause":
+  - firstname: ["Andreas", "A."]
+    url: https://las.inf.ethz.ch/
+
+
+"Cevher":
+  - firstname: ["Volkan", "V."]
+    url: https://www.epfl.ch/labs/lions/
+
+
+"Sessa":
+  - firstname: ["Pier Giuseppe", "P. G.", "Pier G.", "Pier G."]
+    url: https://sessap.github.io/
+
+"Mutny":
+  - firstname: ["Mojmir", "M."]
+    url: https://mojmirmutny.github.io/
+
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
