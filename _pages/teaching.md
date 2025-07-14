@@ -1,13 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Courses TA'd
+title: teaching & supervision
+description: 
 nav: true
 nav_order: 5
 ---
 
-**TA** | *Middle East Technical University - Ankara, TR (02.2020-08.2022)*
+**Supervision**
+* Manshika Charvi Bissessur (MS student at University of Oxford Engineering, next: Ph.D. at University of Oxford) [2025]
+
+
+**Teaching Assistant** | *Middle East Technical University - Ankara, TR (02.2020-08.2022)*
 * 2021-2022 spring: 
     * IE304 Production and Service Information Systems 
     * IE440 Engineering Economy 

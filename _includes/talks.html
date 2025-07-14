@@ -1,16 +1,16 @@
 
-          <div class="news">
-            {% if site.news != blank -%}
-            {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" {% if site.news.scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
+          <div class="talks">
+            {% if site.talks != blank -%}
+            {%- assign talks_size = site.talks | size -%}
+            <div class="table-responsive" {% if site.talks.scrollable and talks_size > 3 %}style="max-height: 10vw"{% endif %}>
               <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%}
-              {% if site.news.limit %}
-              {% assign news_limit = site.news.limit %}
+              {%- assign talks = site.talks | reverse -%}
+              {% if site.talks.limit %}
+              {% assign talks_limit = site.talks.limit %}
               {% else %}
-              {% assign news_limit = news_size %}
+              {% assign talks_limit = talks_size %}
               {% endif %}
-              {% for item in news limit: news_limit %}
+              {% for item in talks limit: talks_limit %}
                 <tr>
 <!--                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>-->
                   <th scope="row">{{ item.date | date: "%b, %Y" }}</th>
@@ -18,7 +18,7 @@
                     {% if item.inline -%}
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%}
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      <a class="talks-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %}
                   </td>
                 </tr>
@@ -26,6 +26,6 @@
               </table>
             </div>
           {%- else -%}
-            <p>No news so far...</p>
+            <p>No talks so far...</p>
           {%- endif %}
           </div>
