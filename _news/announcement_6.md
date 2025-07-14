@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-20 12:59:00-0400
+date: 2025-05-26 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I will co-organize the [WiML](https://www.wiml.org/) Social @ ICLR 2025!
+New preprint is out: [ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining](https://arxiv.org/abs/2505.19893)
