@@ -9,9 +9,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Electrical Engineering
+      institution: Ecole polytechnique fédérale de Lausanne (EPFL)
+      year: 2025 - 2027
     - title: Ph.D. in Computer Science
       institution: CS@maxplanck doctoral program - Max Planck Graduate Center for Computer and Information Science (MPG)
-      year: 2022 - ...
+      year: 2023 - 2027
       # description:
       #  - Description 2.
       #  - title: Description 3.
