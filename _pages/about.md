@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a second-year PhD student jointly affiliated with the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/), in Tübingen, Germany, and the [EPFL-EDEE](https://www.epfl.ch/education/phd/edee-electrical-engineering/) doctoral program. 
+I am a third-year PhD student jointly affiliated with the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/), in Tübingen, Germany, and the [EPFL-EDEE](https://www.epfl.ch/education/phd/edee-electrical-engineering/) doctoral program. 
 
 I conduct my research within the [Learning and Dynamical Systems (LDS)](https://lds.is.mpg.de/) group at MPI-IS and [LIONS](https://www.epfl.ch/labs/lions/) lab at EPFL, under the supervision of [Michael Muehlebach](https://sites.google.com/view/mmuehlebach) and [Volkan Cevher](https://www.epfl.ch/labs/lions/).
 My PhD is supported by the [Amazon-MPI Science Hub](https://www.sciencehub.mpg.de/) doctoral fellowship. 
@@ -32,10 +32,11 @@ My research focuses on optimization for machine learning, specifically aimed at 
 Previously, I delved into the intersection of algorithmic decision-making and multi-agent systems, examining the intricate interplay between game theory and stochastic optimization. This exploration spanned various contexts, including reinforcement learning, Bayesian optimization, and protein design.
 
 
--- If you are interested in doing internship/MSc thesis on the topics mentioned above at the [LDS](https://lds.is.mpg.de/) group, I am always open to potential collaborations. Feel free to [**reach out**](mailto:mbal@tuebingen.mpg.de) via email—I’d be happy to discuss possible projects!
+-- If you are interested in doing an internship/MSc thesis on the topics mentioned above at the [LDS](https://lds.is.mpg.de/) group, I am always open to potential collaborations. Feel free to [**reach out**](mailto:mbal@tuebingen.mpg.de) via email—I’d be happy to discuss possible projects!
 
 
 <!---
 [CS@max planck](https://www.cis.mpg.de/cs-max-planck/)
 I work at the [Learning and Dynamical Systems](https://lds.is.mpg.de/) research group.
 --->
+
