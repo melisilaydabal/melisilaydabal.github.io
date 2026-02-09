@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint is out: [SALAAD: Sparse And Low-Rank Adaptation via ADMM](https://arxiv.org/abs/2602.00942)
+New preprint is out: [SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](https://arxiv.org/abs/2602.00942)
