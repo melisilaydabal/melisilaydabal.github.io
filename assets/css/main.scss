@@ -13,3 +13,34 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+
+
+/* =========================
+   News section layout tweak
+   Goal: compact date column, roomy text column
+   ========================= */
+
+.news {
+  width: 100%;
+}
+
+/* Let the table size naturally */
+.news table {
+  width: 100%;
+  table-layout: auto;
+}
+
+/* Tight first column (date) */
+.news td:first-child {
+  white-space: nowrap;
+  width: 110%;              /* magic trick: shrink to content */
+  padding-right: 1rem;
+  color: #666;            /* optional: visually de-emphasize date */
+}
+
+/* Spacious second column */
+.news td:last-child {
+  width: 90%;
+  padding-left: 0;
+}
