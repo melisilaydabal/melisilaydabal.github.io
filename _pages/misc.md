@@ -4,7 +4,7 @@ permalink: /misc/
 title: visual escapes
 description: 
 nav: true
-nav_order: 6
+nav_order: 5
 images:
   compare: true
   slider: true
