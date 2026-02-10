@@ -7,10 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-**Supervision**
-* Manshika Charvi Bissessur (MS student at University of Oxford Engineering, next: Ph.D. at University of Oxford) [2025]
+### **Supervision**
+* Manshika Charvi Bissessur (MSc at University of Oxford): *Robust Training of Graph Neural Networks against Label Poisoning* [2025]
 
 
+### **Teaching**
 **Teaching Assistant** | *Middle East Technical University - Ankara, TR (02.2020-08.2022)*
 * 2021-2022 spring: 
     * IE304 Production and Service Information Systems 

@@ -35,7 +35,7 @@ nav_order: 3
 
 
 ### **Reviewer**
-[_config.yml](..%2F_config.yml)
+
 
 
 - **Conferences:** ICML 2026, ICLR 2026, NeurIPS 2025, ICLR 2025, Symposium on Systems Theory in Data and Optimization
