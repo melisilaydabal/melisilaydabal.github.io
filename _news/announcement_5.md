@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-**ICLR 2025:** Two papers accepted!
+:tada: **ICLR 2025:** Two papers accepted!
 I will present our work on [Adversarial Training for Defense Against Label Poisoning Attacks](https://openreview.net/forum?id=UlpkHciYQP) and [Optimistic Games for Combinatorial Bayesian Optimization with Application to Protein Design](https://arxiv.org/abs/2409.18582), see you in Singapore!
