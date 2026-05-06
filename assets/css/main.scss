@@ -45,3 +45,38 @@ $max-content-width: {{ site.max_width }};
   width: 90%;
   padding-left: 0;
 }
+
+/* =========================
+  Make news scrollable
+  ========================= */
+
+.news {
+  max-height: 300px;   /* adjust to taste */
+  overflow-y: auto;
+  border-radius: 5px;
+}
+
+.news.scrollable {
+  padding-right: 8px;
+}
+
+.news.scrollable::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news.scrollable::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+  /* fade-out effect */
+.news:after {
+  content: "";
+  position: sticky;
+  bottom: 0;
+  display: block;
+  height: 40px;
+  background: linear-gradient(to bottom, transparent, white);
+  pointer-events: none;
+}
+

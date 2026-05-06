@@ -38,6 +38,16 @@ Previously, I delved into the intersection of algorithmic decision-making and mu
 
 -- :point_right: **I’m also looking for a PhD research internship opportunity in 2026/2027**.
 
+---
+
+**Contact:** &nbsp;&nbsp;
+<i class="fas fa-envelope"></i> mbal@tuebingen.mpg.de &nbsp;&nbsp;
+<i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?hl=en&user=Ub6FWTEAAAAJ&view_op=list_works&sortby=pubdate">Scholar</a> &nbsp;&nbsp;
+<i class="fab fa-github"></i> <a href="https://github.com/melisilaydabal">GitHub</a> &nbsp;&nbsp;
+<i class="fab fa-linkedin"></i> <a href="linkedin.com/in/melis-ilayda-bal-436889123">LinkedIn</a>
+
+
+
 <!---
 [CS@max planck](https://www.cis.mpg.de/cs-max-planck/)
 I work at the [Learning and Dynamical Systems](https://lds.is.mpg.de/) research group.
