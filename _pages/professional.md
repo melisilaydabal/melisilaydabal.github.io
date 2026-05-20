@@ -38,7 +38,7 @@ nav_order: 3
 
 
 
-- **Conferences:** ICML 2026, ICLR 2026, NeurIPS 2025, ICLR 2025, Symposium on Systems Theory in Data and Optimization
+- **Conferences:** ICML 2026 (silver reviewer recognition), ICLR 2026, NeurIPS 2025, ICLR 2025, Symposium on Systems Theory in Data and Optimization
 
 - **Journals:** Knowledge-Based Systems
 
