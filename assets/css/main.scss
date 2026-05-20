@@ -51,7 +51,7 @@ $max-content-width: {{ site.max_width }};
   ========================= */
 
 .news {
-  max-height: 300px;   /* adjust to taste */
+  max-height: 350px;   /* adjust to taste */
   overflow-y: auto;
   border-radius: 5px;
 }
@@ -73,7 +73,7 @@ $max-content-width: {{ site.max_width }};
 
 /* Make news section scrollable */
 .news .table-responsive {
-  max-height: 300px;   /* adjust to taste */
+  max-height: 400px;   /* adjust to taste */
   overflow-y: auto;
   border-radius: 5px;
 }
