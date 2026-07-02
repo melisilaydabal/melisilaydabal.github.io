@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a third-year PhD student jointly affiliated with the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), in Tübingen, Germany, and [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/education/phd/edee-electrical-engineering/). 
+I am a PhD candidate jointly affiliated with the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), in Tübingen, Germany, and [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/education/phd/edee-electrical-engineering/), in Switzerland. 
 
 I conduct my research within the [Learning and Dynamical Systems (LDS)](https://lds.is.mpg.de/) group at MPI-IS and [LIONS](https://www.epfl.ch/labs/lions/) lab at EPFL, under the supervision of [Michael Muehlebach](https://sites.google.com/view/mmuehlebach) and [Volkan Cevher](https://www.epfl.ch/labs/lions/).
 My PhD is supported by the [Amazon-MPI Science Hub](https://www.sciencehub.mpg.de/) fellowship. 
