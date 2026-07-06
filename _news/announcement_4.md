@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Passed my PhD Qualifying Exam! Thanks to committee members Dr. [Michael Muehlebach](https://sites.google.com/view/mmuehlebach/), Prof. [Andreas Krause]() and Dr. [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). ✨
+Passed my PhD Qualifying Exam! :sparkles: Thanks to committee members Dr. [Michael Muehlebach](https://sites.google.com/view/mmuehlebach/), Prof. [Andreas Krause]() and Dr. [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/).
 
