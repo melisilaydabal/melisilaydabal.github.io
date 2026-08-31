@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: [ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining](https://openreview.net/pdf?id=vcynsg6rMN) is published in Transactions on Machine Learning Research
+:tada: [ESLM: Risk-Averse Selective Language Modeling with Hierarchical Batch Selection](https://openreview.net/pdf?id=vcynsg6rMN) is published in Transactions on Machine Learning Research
