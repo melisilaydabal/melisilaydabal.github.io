@@ -45,6 +45,7 @@ nav_order: 3
 
 ### **Supervision**
 * Manshika Charvi Bissessur (PhD student at University of Oxford): *Robust Training of Graph Neural Networks against Label Poisoning* [2025]
+* Niyazi Görkem Dener (MSc student at EPFL): *Risk-Aware Selective Mixture-of-Experts for Efficient Language Modeling* [2026]
 
 
 ### **Teaching**
